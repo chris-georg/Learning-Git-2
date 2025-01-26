@@ -1,7 +1,7 @@
-## Hello Git Hey
+## Hayyo Git
 
 -- This is Dev jsm
 
 -- Y'all are good
 
-## This is readme
+-- This is readme
